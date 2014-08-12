@@ -1,1 +1,1 @@
-Hey this is my secnd attempt at git
+puts "Good morning!"
